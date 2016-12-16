@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidEx.iml" filepath="$PROJECT_DIR$/AndroidEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/DrawingEx.iml" filepath="$PROJECT_DIR$/DrawingEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawex/drawex.iml" filepath="$PROJECT_DIR$/drawex/drawex.iml" />
       <module fileurl="file://$PROJECT_DIR$/drawex/drawex.iml" filepath="$PROJECT_DIR$/drawex/drawex.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentex/fragmentex.iml" filepath="$PROJECT_DIR$/fragmentex/fragmentex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentex/fragmentex.iml" filepath="$PROJECT_DIR$/fragmentex/fragmentex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logex/logex.iml" filepath="$PROJECT_DIR$/logex/logex.iml" />
     </modules>
   </component>
 </project>

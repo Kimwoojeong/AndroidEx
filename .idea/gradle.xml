@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/drawex" />
             <option value="$PROJECT_DIR$/fragmentex" />
+            <option value="$PROJECT_DIR$/logex" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

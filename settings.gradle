@@ -1,1 +1,1 @@
-include ':app', ':drawex', ':fragmentex'
+include ':app', ':drawex', ':fragmentex', ':logex'
